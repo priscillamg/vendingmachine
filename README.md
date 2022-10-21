@@ -1,2 +1,2 @@
 # vendingmachine
-simulates vending machine, using C++ 
+This project simulates a vending machine using C++. 
